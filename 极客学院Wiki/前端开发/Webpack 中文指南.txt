@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Webpack 是当下最热门的前端资源模块化管理和打包工具。本文为 Webpack 中文指南。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/webpack-handbook/

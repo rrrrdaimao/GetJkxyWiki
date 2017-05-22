@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文档翻译自 Node.js 官方文档，适用于 V0.12.2。从引用参考和概念两个方面全面的解释 Node.js API，每个章节描述一个模块或高级概念。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/nodejs/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        在本系列文章当中，我们将从零开始学习 Android SDK 框架并深入理解和分析。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-sdk/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Python 是 Google主要的脚本语言。这本风格指南主要包含的是针对python的编程准则。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/google-python-style-guide/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        沉浸式学 Git 是一份强调通过实践来掌握 Git 基础用法的指南。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/git-immersion/

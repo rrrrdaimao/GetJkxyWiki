@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        一个16岁就开始程序员生涯的人讲述如何做好程序员，当中不乏职场经验、团队合作和项目管理等内容。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/how-to-be-a-programmer/

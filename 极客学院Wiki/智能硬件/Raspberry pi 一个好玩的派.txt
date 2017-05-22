@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        玩转树梅派的攻略。玩乐中学习开源硬件，玩乐中开拓自己的思维。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/raspberry-pi-funny/

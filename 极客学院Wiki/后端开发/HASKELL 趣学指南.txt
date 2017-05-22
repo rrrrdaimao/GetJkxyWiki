@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        对于 Haskell 这种函数式编程语言，本书从多个角度向读者展示这门语言的强大功能。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/haskell-guide/

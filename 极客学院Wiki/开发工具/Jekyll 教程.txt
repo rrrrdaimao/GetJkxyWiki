@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Jekyll 是一个简单的博客形态的静态站点生产机器,该教程的目标是成为 Jekyll 的全面指南。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/jekyll/

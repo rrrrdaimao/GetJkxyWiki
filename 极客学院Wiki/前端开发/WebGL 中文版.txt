@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程是 WebGL 的最新版介绍，文章区别于网上其他同类的内容，内容全面且新颖，旨在通过简洁的介绍，让读者明白 WebGL 是如何使用的。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/webgl/

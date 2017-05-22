@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本指南的目的是教会你如何实际运用 Github API。我们将会涉及到你需要知道的所有内容，从身份认证到操作结果，以及怎么将结果与其他服务相结合。本指南是 GitHub 官方文档 Development Guides 的中文翻译版本。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/github-developer-guides/

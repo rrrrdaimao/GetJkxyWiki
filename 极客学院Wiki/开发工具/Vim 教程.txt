@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Vim 是 UNIX 文本编辑器 Vi 的加强版本,加入了更多特性来帮助编辑源代码.
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/vim/

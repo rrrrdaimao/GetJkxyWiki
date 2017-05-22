@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        这是一份指南，在 PHP 程序员遇到一些常见低层次任务但不明确最佳做法（由于 PHP 可能提供了多种解决方案）之时，为其建议最佳实践。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/php-best-practices/

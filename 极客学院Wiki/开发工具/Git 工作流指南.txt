@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本指南以大家在 SVN 中已经广为熟悉使用的集中式工作流作为起点，循序渐进地演进到其它高效的分布式工作流，还介绍了如何配合使用便利的 Pull Request 功能，体系地讲解了各种工作流的应用。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/git-workflow-tutorial/

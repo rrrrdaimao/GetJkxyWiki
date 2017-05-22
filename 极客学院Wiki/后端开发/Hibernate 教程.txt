@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Hibernate 是一个高性能的对象/关系型持久化存储和查询的工具。本教程将指导你如何以简单的方式使用 Hibernate 来开发基于数据库的 Web 应用程序。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/hibernate/

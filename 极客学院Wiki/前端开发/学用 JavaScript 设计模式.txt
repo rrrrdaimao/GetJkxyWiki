@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        设计模式是可重用的用于解决软件设计中一般问题的方案，在本书中，我们将看到一些流行的JavaScript设计模式，并探索为什么一些特定的模式比其他的更适合你的项目。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/javascript-design-patterns/

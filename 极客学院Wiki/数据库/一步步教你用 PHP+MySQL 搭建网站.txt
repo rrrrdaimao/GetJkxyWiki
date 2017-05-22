@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文主要讲解如何利用 PHP 和 MySql 搭建网站，并提供详细的代码分析。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/php-and-mysql-web/

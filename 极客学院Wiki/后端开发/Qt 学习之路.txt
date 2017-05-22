@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Qt 是一个著名的 C++ 库——或许并不能说这只是一个 GUI 库，因为 Qt 十分庞大，并不仅仅是 GUI。使用 Qt，在一定程序上你获得的是一个“一站式”的服务：不再需要研究 STL，不再需要 C++ 的string，因为Qt有它自己的 QString 等等。或许这样说很偏激，但 Qt 确实是一个“伟大的 C++ 库”。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/learn-road-qt/

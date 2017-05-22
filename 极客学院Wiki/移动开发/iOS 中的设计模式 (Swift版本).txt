@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文将完成一个完整的应用，教会您正确的使用设计模式方法，降低代码之间的耦合度，从而很轻松的修改或者替换以前的代码。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/ios-design-patterns-in-swift/

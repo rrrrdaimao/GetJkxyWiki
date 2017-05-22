@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Dart 是谷歌在 2011 年推出的编程语言，是一种结构化 Web 编程语言，允许用户通过 Chromium 中所整合的虚拟机（Dart VM）直接运行 Dart 语言编写的程序，免去了单独编译的步骤。本教程是 Dart 官方文档 A Tour of the Dart Language 的中文翻译版本。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/dart-language-tour/

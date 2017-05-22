@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        设计模式的学习，可以增强自己的代码复用意识。同时，也可以清晰地表达自己的编程思路。本文将介绍设计模式的六大原则。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-design-pattern-principle/

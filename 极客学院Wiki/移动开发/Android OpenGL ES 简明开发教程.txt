@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程可以帮助从未接触过 3D 开发的程序员了解 OpenGL 开发的基本概念和方法。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/opengl-es-basics/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Vaddin 是一个Web应用程序框架，用其开发的浏览器应用界面可以达到和桌面应用类似的效果，但和Flash  ，Silverlight不同的是，Vaddin应用无需再浏览器上安装任何插件。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/vaadin-web-development-tutorial/

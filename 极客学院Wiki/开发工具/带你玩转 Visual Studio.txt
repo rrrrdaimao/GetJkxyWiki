@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文是作者从事C++开发工作一年半以来对VS用法的经验和总结。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/visual-studio/

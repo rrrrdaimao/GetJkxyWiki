@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本篇以一个简单的例子来介绍 Extractor 的概念和用法。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/scala-extractors/

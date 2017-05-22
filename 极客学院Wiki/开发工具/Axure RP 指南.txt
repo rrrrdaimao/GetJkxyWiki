@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Axure RP 是一个专业的快速原型设计工具，是产品经理的首选利器，没有之一。本指南是 Axure 官方文档 Step by Step Tutorials 的中文翻译版本，专为初学者量身打造，能够帮助他们从零开始逐步了解 Axure RP 操作。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/axure/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        HomeKit 本质上是苹果蓝牙直连和多点设备框架的“伴侣”，允许开发人员使用一套简单的命令控制设备状态，发送命令。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/homekit/

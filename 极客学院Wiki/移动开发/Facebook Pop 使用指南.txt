@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本指南将教会大家如何方便快捷地使用 Facebook Pop 动画引擎来实现 Paper 平滑动画和转场效果。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/facebook-pop/

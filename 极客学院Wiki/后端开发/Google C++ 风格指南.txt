@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        C++ 是 Google 大部分开源项目的主要编程语言. 正如每个 C++ 程序员都知道的, C++ 有很多强大的特性, 但这种强大不可避免的导致它走向复杂，使代码更容易产生 bug, 难以阅读和维护.
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/google-cplusplus-style-guide/

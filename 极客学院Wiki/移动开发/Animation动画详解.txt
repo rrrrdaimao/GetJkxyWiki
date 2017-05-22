@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        介绍Android Animation动画入门，提高，进阶知识
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-animation/

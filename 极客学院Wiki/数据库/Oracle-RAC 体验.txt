@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书主要介绍 Oracle RAC 的原理和集群的搭建过程。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/oraclecluster/

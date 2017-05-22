@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        PHP 是目前流行的服务器脚本语言，本教程是 PHP 语言的基础的精简版。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/php-basics-notes/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        OAuth 2.0 是目前比较流行的做法，它率先被Google, Yahoo, Microsoft, Facebook等使用。之所以标注为 2.0，是因为最初有一个1.0协议，但这个1.0协议被弄得太复杂，易用性差，所以没有得到普及。2.0是一个新的设计，协议简单清晰，但它并不兼容1.0，可以说与1.0没什么关系。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/oauth-2/

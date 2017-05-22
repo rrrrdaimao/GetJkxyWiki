@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本专题侧重介绍 Scala 的 case class 和 pattern matching（模式匹配），这两个程序结构对于处理树结构的数据非常有帮助。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/scala-class-and-pattern/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文档会从技术和协议层面介绍 HTTP/2 协议，主要内容包括 HTTP/2 协议产生的背景、协议本身、实现和未来。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/http-2-explained/

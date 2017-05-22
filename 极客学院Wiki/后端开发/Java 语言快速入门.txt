@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Java 是一种高级的编程语言，可以在不同的平台上运行。本指南将让你对 Java 有一个彻底的认识与了解，带你用简单并且实用的方法来学习 Java 编程语言。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java/

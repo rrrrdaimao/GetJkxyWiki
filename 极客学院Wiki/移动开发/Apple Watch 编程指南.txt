@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程翻译自 Apple 官方发行的 Apple Watch Programming Guide 编程指南，为开发者提供权威的编程指导。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/apple-watch-programming-guide/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        一本介绍 RabbitMQ 消息代理工作原理的书。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/rabbitmq/

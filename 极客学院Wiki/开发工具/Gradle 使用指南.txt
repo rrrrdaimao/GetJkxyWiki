@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程是根据 Gradle 官网部分翻译而成，主要帮助读者学习使用 Gradle 构建系统，并对涉及的插件做了详细介绍 。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/gradle/

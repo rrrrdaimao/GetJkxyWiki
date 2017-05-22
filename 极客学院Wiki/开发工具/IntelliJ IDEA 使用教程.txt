@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本系列教程从 IntelliJ IDEA 的安装、卸载、软件设置、项目配置等各个方面进行讲解。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/

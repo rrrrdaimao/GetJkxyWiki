@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Servlet 为构建基于 Web 的应用程序提供了一个基于组件的、独立于平台的方法。Servlet 访问 Java API 的整个家族，包括 JDBC API 来访问企业数据库。本教程将用简单易学的方法教你使用 Java Servlet 开发基于 Web 的应用程序。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/servlet/

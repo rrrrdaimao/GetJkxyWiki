@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程简单的介绍如何使用 Python 的相关模块如 urllib2 来实现网络爬虫。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/python-crawler/

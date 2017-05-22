@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Google API 使用 OAuth 2.0 协议来进行验证和授权。Google 支持常见的 OAuth 2.0 方案，包括使用 Web 服务器、本地安装的和客户端类型的应用。本指南是 Google Developers 官网 OAuth 2.0 Authorzation 的中文翻译版本。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/google-oauth-2/

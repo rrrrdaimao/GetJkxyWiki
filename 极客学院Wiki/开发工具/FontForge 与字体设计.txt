@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书的目标是为规划字型设计项目提供技术帮助和一般见解，同时提供如何让你的工作流程更加高效的建议。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/fontforge-and-font-design/

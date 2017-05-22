@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Docker是一个开发的平台，用来为开发者和系统管理员构建、发布和运行分布式应用。本教程将通过实践实践让你体会Docker带来的方便与苦恼。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/docker-practice/

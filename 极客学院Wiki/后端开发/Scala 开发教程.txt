@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Scala 开发教程是旨在帮助 Java 开发者解决面向函数与面向对象编程结合使用的问题。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/scala-development-guide/

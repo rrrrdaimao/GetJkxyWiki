@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Apple Pay 作为一种新的支付方式登录中国，这势必会让很多 iOS 应用支付技术随之改变，本教程是官方手册最新翻译版。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/apple-pay/

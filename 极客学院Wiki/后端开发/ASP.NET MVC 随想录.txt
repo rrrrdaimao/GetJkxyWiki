@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        ASP.NET MVC 框架提供了一个可以代替 ASP.NETWebForm 的基于 MVC 设计模式的应用。本书主要讲解 ASP.NET MVC 中新增加的那些功能。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/think-in-asp-net-mvc/

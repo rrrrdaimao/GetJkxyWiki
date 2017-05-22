@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        C 是一门简洁且功能强大的编程语言。本文将会带你了解 C 的一些边角知识和一些高阶特性。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/c-advance/

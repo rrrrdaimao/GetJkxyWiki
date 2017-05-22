@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Node.js 是一个构建在 Chrome JavaScript 上，具有构建速度快、稳定性强、轻量且高效，适合在分布式设备运行数据密集型实时应用程序的平台。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/nodejs-guide/

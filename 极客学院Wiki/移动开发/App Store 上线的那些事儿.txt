@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程是极客学院 iOS 组上线经验与网络材料搜集而成，旨在帮助开发者在上线这条路上少走弯路。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/app-store-refused/

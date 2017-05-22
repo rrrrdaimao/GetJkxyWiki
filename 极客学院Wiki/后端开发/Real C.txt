@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        一本 C 语言进阶实战的电子书。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/c-gitbook/

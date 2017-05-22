@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程主要讲解 JMM 是如何控制线程与主内存之间的通信的。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-memory-model/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        SBT 是一个灵活强大的项目构建工具，相比其他构建工具用起来会发现简洁简洁，但是从功能上看一点都逊色于其他构建工具。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/sbt-getting-started/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程是精心编写的 Dart 风格指南，旨在帮助大家了解该语言独有的特性，并且让 Dart 开发者之间的协作更加容易。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/dart-style-guide/

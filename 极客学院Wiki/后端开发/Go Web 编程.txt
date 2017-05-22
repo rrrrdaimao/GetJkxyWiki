@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文介绍如何用go语言进行web应用的开发，将go语言的特性与web开发实战组合到一起，帮读者成功地构建跨平台的应用程序，节省go语言开发web的宝贵时间。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/go-web-programming/

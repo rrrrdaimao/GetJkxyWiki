@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        JQuery 是继 prototype 之后又一个优秀的 Javascript 库,本文是 JQuery 的完整教程。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/jquery-tutorial/

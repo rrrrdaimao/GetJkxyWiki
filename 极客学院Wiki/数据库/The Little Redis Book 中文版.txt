@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文的目的是向读者传授掌握Redis所需要的基本知识。我们将会注重于学习Redis的5种数据结构，并研究各种数据建模方法。我们还会接触到一些主要的管理细节和调试技巧。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/the-little-redis-book/

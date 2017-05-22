@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书分为六个部分，包括 Redis 源码日志，服务框架，基础数据结构，内功心法，应用，其他，从源码层面循序渐进的了解 Redis。通过阅读本书，读者可以快速、有效地了解 Redis 的内部构造以及运作机制，更好、更高效地使用 Redis。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/redis/

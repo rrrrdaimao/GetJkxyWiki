@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Disruptor 是一个并发编程框架，它允许开发者使用多线程技术去创建基于任务的工作流。本课程带你理解 Disruptor 的工作原理并让你快速将其应用到工作中。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/disruptor-getting-started/

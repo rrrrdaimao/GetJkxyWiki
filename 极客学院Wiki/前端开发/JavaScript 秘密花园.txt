@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        JavaScript 一种直译式脚本语言，本教程主要介绍了 JavaScript 的一些新奇的用法，引导读者更深刻的理解这门语言。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/javascript-garden/

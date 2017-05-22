@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Rust 是一个注重安全与速度的现代系统编程语言,这本书将教会你使用Rust编程语言。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/rust-1.7/

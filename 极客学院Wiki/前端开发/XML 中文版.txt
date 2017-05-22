@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程将会教授我们 XML 的基础知识。本教程分为好几个部分，比如 XML 基础，高级 XML 和 XML 工具。每个主题都包含主题相关的简单且实用的例子。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/xml/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文是为linux命令行的初学者量身打造的. 用语简洁, 脉络清晰, 就算没有任何的linux使用经验, 也能够在作者的引导下, 一点点的去除对命令行的恐惧.
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/linux-command/

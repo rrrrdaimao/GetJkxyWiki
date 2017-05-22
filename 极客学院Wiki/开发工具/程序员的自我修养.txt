@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        作者通过多年程序经验，总结出一套程序员的自我养成手册，内容通俗易懂适合初入行程序员阅读。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/a-programmer-prepares/

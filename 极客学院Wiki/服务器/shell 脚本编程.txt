@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Shell是系统的用户界面，提供了用户与内核进行交互操作的一种接口。它接收用户输入的命令并把它送入内核去执行.
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/shell-learning/

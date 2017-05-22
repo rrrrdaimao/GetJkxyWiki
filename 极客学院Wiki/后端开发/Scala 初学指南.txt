@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书是 The Neophyte's Guide to Scala 的中文翻译。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/guides-to-scala-book/

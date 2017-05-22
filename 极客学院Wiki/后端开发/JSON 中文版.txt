@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程会帮助我们了解 JSON 以及如何在各种编程语言，比如 PHP，PERL，Python，Ruby，Java等等编程语言中使用它。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/json/

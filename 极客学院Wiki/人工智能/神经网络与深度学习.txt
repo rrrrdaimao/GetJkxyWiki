@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        神经网络和深度学习是一本免费的在线书。本书会教会你：
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/neural-networks-and-deep-learning-zh-cn/

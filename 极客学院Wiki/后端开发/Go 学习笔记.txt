@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        作者通过自身学习经历整理出一套 go 语言学习笔记，内容分为三个部分：语言、源码、附录。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/the-go-study-notes-fourth-edition/

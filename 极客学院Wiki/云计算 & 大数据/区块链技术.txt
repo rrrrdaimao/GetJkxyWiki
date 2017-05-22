@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        所谓区块链技术，也被称之为分布式账本技术，是一种互联网数据库技术，其特点是去中心化、公开透明，让每个人均可参与数据库记录。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/blockchain/

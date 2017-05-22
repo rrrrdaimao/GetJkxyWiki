@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        MySQL 是一个精巧的 SQL 数据库管理系统，一个真正的多用户、多线程SQL数据库服务器。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/mysql-21-minutes/

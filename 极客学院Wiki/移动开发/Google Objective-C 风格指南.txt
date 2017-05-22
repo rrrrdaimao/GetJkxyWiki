@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Objective-C 是 C 语言的扩展，增加了动态类型和面向对象的特性。它被设计成具有易读易用的，支持复杂的面向对象设计的编程语言。它是 Mac OS X 以及 iPhone 的主要开发语言。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/google-objc-style-guide/

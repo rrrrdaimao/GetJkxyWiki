@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程是 Redis 3.0 官方文档的翻译版，内容上突出新特性，旨在帮助读者快速上手并掌握 Redis 3.0 的知识点。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/redis-guide/

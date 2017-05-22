@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        这本书的目的是让你足够熟悉C语言，并能够使用它编写自己的软件，或者修改其他人的代码。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/learn-c-hard-way/

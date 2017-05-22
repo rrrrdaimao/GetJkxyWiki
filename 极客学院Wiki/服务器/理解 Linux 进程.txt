@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书用 Go 重写了所有示例程序，通过循序渐进的方法介绍 Linux 进程的工作原理和一切你所需要知道的概念。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/linux-process/

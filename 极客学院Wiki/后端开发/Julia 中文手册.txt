@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Julia 是一个新的高性能动态高级编程语言。语法和其他编程语言类似，易于其他语言用户学习。Julia 具有并行性和支持云计算模式等特点。本课程是其最新版本的中文手册。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/julia-manual/

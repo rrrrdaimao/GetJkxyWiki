@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书是作者自己的学习经历总结，通过一个完整的学习过程介绍，给读者展示 Shell 学习是如何从入门到精通的。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/learn-shell/

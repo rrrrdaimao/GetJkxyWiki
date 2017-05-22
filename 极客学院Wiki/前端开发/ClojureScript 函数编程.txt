@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        这既不是一本介绍 Clojure 也不是介绍 JavaScript 的书，这是一本介绍如何用 JavaScript 函数式编程的书。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/clojure-flavored-javascript/

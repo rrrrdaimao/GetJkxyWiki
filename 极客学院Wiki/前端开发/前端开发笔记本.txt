@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        前端笔记本涵盖了 Web 前端开发所需的基本知识以及学习路径。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/fend_note/

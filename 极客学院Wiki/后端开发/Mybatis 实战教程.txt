@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        MyBatis 是支持普通 SQL 查询，存储过程和高级映射的优秀持久层框架。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/mybatis-in-action/

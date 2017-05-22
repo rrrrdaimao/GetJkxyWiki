@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Laravel 是一套为网页艺术家创造的，简洁、优雅的 PHP Web 开发框架。本教程翻译自 Laravel V5.0 官方英文文档。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/laravel/

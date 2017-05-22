@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书是基于C++11新标准的并发和多线程编程深度指南。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/cplusplus-concurrency-action/

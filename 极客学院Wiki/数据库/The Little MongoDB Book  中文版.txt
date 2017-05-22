@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书大部分内容将会专注于 MongoDB 的核心功能。我们会用到 MongoDB 的 shell。因为 shell 不但有助于学习，而且还是个很有用的管理工具。实际代码中你需要用到 MongoDB 驱动。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/the-little-mongodb-book/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本课程并不是一本教程，而是一本完整的关于 Python 语言学习的书。该书用风趣幽默的语言配以丰富的图片，系统地介绍了 Python 这门当下非常流行的编程语言，是一本非常难得的 Python 学习书籍。该书为原书第二版。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/start-learning-python/

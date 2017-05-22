@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Cocos2d-x 是一个开源的移动 2D 游戏框架，MIT 许可证下发布的。这是一个 C++ Cocos2d-iPhone 项目的版本。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/cocos2d-x-getting-real/

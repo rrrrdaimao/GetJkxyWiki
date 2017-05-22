@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        完整的Ghost使用指南中文文档，包括安装、使用以及如何制作主题和插件。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/ghost-user-guide/

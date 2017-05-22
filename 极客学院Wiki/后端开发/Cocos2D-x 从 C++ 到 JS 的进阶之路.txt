@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        随着移动领域进入的游戏公司越来越多，开发成本一路上涨。以C++为代表的老一代开发语言，将直面lua，js等脚本语言的冲击。本专题汇集cocos2d-x从c++到js系列文章，分享给大家。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/cocos2d-x-from-cplusplus-js/

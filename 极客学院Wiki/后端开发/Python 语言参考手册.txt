@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本手册翻译自 Python 官方发行的《Python Language Reference》，适用于 Python 3.4.3 版本。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/python-language-reference/

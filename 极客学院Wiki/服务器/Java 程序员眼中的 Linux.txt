@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        笔者从 Java 开发角度，全方位讲解各种环境搭建及常用工具详解，是一部适合程序员的百科全书。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/linux-in-eye-of-java/

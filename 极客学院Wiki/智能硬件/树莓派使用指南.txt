@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        树莓派是一款将各种组件集成到只有信用卡大小的主板上，并运行 Linux 专用系统版本的小型电脑。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/raspberry-pi/

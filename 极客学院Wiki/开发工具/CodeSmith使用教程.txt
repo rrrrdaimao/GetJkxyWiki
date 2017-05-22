@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        CodeSmith 是一种基于模板的代码生成工具，它使用类似于 ASP.NET的语法来生成任意类型的代码或文本。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/codesmith/

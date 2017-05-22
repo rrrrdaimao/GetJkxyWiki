@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        欢迎来到 Flask 的世界。Flask 是一个使用 Python 编写的轻量级 Web 应用框架。 本课程从 Flask 的背景开始介绍，一步一步地说明如何使用 Flask 进行 Web 开发。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/flask-guide/

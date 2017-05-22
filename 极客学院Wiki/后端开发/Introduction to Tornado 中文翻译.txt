@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Tornado是使用Python编写的一个强大的、可扩展的Web服务器。它在处理严峻的网络流量时表现得足够强健，但却在创建和编写时有着足够的轻量级，并能够被用在大量的应用和工具中。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/introduction-tornado/

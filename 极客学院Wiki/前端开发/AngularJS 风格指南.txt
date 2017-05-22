@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本风格指南的目的是展示AngularJS应用的最佳实践和风格指南。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/angularjs-practices-style-guide/

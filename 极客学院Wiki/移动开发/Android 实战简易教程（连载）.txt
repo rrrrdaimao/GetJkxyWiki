@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Android 实战简易教程，一步步由浅入深带你领略 Android 的魅力，本教程通过一个个简单实用的例子，向读者展示 Android 应用功能开发过程的始末，帮助读者更好理解每个功能的实现过程和原理。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-in-action/

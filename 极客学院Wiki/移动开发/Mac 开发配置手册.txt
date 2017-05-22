@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        一本帮助读者快速配置 MacBook 开发环境的手册。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/mac-dev-setup/

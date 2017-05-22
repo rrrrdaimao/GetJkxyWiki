@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        SQL 是一种数据库语言，被设计用来检索及管理关系数据库中的数据。SQL 是 Structured Query Language（结构化查询语言）的缩写。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/sql/

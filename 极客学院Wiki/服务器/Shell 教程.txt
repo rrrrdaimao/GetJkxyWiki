@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Shell本身是一个用C语言编写的程序，它是用户使用Unix/Linux的桥梁，用户的大部分工作都是通过Shell完成的。Shell既是一种命令语言，又是一种程序设计语言。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/shell-tutorial/

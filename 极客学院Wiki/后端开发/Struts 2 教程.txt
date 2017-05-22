@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Apache Struts 2 是一个简洁的，可扩展的框架，它用来创建企业级的 Java web 应用程序。本教程将教你如何用简单和容易的步骤使用 Apache Struts 来创建企业级的 Java Web 应用程序。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/struts-2/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书其实是我的一本笔记 (还在整理中). 我是也是刚找到工作. 这本笔记主要记录了我之前面试遇到的问题以及我在网上整理的一些资料主要是面向 junior 级别
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-interview-question/

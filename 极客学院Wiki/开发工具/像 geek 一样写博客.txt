@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程讲解了如何基于 Octopress 系统和 Github 仓库建立自己的个性化博客。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/github-page/

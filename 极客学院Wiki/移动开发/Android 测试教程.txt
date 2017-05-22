@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        测试也是开发过程中一个重要组成部分，Android 开发环境集成一个测试框架可以用来测试 Android 应用的各个方面，单元测试，UI 测试等。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-test-course/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文档的目标是给你描述足够的技术细节能让你理解Django是如何工作的.
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/django-chinese-docs-1.8/

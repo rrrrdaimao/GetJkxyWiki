@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        C# 不仅是一门面向对象的编程语言，同时它也为面向组件（component-oriented）编程提供了支持。 C# 语言规范是一本详细介绍 C# 语法及使用规范的书，本教程是 C# 语言规范 5.0 的翻译版，主要内容是对 C# 语言的核心知识点做概念性讲解，帮助读者了解 C# 语言的最新标准解释。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/csharp-Language-specification-three/

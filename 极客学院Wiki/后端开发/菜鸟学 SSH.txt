@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        SSH 为 struts+spring+hibernate的一个集成框架，是目前较流行的一种Web应用程序开源框架.本文主要针对初学者讲解了此部分内容.
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/ssh-noob-learning/

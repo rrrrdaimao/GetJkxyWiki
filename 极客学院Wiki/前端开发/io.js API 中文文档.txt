@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        io.js 是 node.js 的替代品，可互换，并且几乎兼容 npm 中的所有模块。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/iojs-api-doc/

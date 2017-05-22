@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本指南是 Scrapy 目前最新的版本，内容涉及安装，使用，开发，API 调试等全部知识点，帮助读者学习使用 Scrapy 框架开发网络爬虫。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/scrapy/

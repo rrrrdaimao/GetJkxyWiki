@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        正则表达式（英文：Regular Expression）在计算机科学中，是指一个用来描述或者匹配一系列符合某个句法规则的字符串的单个字符串。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/regex/

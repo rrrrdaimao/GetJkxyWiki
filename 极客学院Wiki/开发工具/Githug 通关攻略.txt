@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Githug 是一个学习 Git 的游戏，让你在游戏中轻松学习和理解 Git 的强大功能，本书详细讲解了每一关任务产生的背景、解决问题的思路和方法，并提供了清晰的过关画面。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/githug-walkthrough/

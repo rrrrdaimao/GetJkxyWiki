@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Ant 是一组 Java 类别库与命令列工具，本教程主要让读者熟悉怎样将 Ant 应用到 Java 项目中，让它简化构建和部署操作。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/ant/

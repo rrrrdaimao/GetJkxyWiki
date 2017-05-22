@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程将从数个方面手把手教大家如何快速、高效地使用 Eclipse：下载安装、设置环境变量、安装插件、导入导出项目、使用快捷键等。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/eclipse/

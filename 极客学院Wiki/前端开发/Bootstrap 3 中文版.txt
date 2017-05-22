@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程被分为 Bootstrap 基本结构、Bootstrap CSS、Bootstrap 布局组件和 Bootstrap 插件几个部分。每个部分都包含了与该主题相关的简单有用的实例。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/bootstrap/

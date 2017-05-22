@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程是对剑指 Offer 这本书的学习心得，为面试技术开发的人提供帮助。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/for-offer/

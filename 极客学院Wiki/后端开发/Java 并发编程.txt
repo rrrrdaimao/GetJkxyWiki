@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Java 并发编程旨在解决复杂的多线程编程问题。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-concurrency/

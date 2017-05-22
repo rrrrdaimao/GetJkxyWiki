@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Slick 是 TypeSafe 推出的 Scala 数据库访问库。开发者可以使用 Scala 语言风格来编写数据查询，而不是用 SQL。本课程系统介绍了 Slick 的基本概念及使用方法。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/slick-guide/

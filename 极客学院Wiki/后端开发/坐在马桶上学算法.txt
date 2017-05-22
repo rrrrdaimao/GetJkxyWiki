@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        在各种算法流行的今天，小编为大家汇总了坐在马桶上看算法系列文章，文章图文并茂，风趣易懂，每天一算法让你轻松走进算法的世界，欢迎大家来学习。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/easy-learn-algorithm/

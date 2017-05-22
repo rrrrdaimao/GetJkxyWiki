@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Python是一种解释型、面向对象、动态数据类型的高级程序设计语言，现在它已经成为最受欢迎的程序设计语言之一。本专题收录了Python编程实战教程，分享给大家。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/python-actual-combat/

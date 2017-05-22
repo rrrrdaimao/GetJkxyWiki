@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Java Web，是用Java技术来解决相关web互联网领域的技术总和。web包括：web服务器和web客户端两部分。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-web/

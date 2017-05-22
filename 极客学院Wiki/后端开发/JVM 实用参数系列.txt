@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程旨在帮助大家了解 JVM 的结构以及相关参数。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/jvm-parameter/

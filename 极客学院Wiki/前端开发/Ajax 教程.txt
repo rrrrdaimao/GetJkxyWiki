@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Ajax 是一种用于创建交互式 Web 应用程序的 Web 开发技术。本教程适用于想要学习如何创建交互式网页以及使用 Ajax 改善速度和可用性的 Web 开发人员。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/ajax/

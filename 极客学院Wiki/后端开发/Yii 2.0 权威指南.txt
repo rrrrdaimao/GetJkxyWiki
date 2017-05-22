@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Yii 是一个高性能，基于组件的 PHP 框架，用于快速开发现代 Web 应用程序。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/yii-2.0-guide/

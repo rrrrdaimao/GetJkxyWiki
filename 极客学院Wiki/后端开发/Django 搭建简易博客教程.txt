@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书主要面向 Django学习者和博客开发者, 其中的代码可以在作者的github上获得, 主要是在Mac上进行开发, 并没有在其他运行环境下做测试
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/django-set-up-blog/

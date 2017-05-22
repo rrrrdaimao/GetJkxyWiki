@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程对 JavaScript 语言的特点和常用的设计模式做了详细的介绍，是一本适合初学者进阶的教程 。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/javascript-depth-understanding/

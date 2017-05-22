@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Linux是当今一门赤手可热的技术，很多IT民工都向往成为一名Linux工程师。该专题是一个非常详细，非常全面的Linux教程，并且还在持续更新中，关注它会让你更方便更全面的学习Linux。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/learn-linux-step-by-step/

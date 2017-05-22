@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Shell 十三问应该 Shell 的(思想)精华本质所在，就像武功的内功心法，能够帮助读者清晰的理解 Shell 语言的用法。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/13-questions-of-shell/

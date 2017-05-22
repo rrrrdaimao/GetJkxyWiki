@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        《Python进阶》是《Intermediate Python》的中文译本, 谨以此献给进击的 Python 和 Python 程序员们!
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/interpy-zh/

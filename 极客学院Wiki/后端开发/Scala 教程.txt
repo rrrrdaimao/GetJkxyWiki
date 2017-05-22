@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Scala 教程是 Twitter 启动的一系列讲座总结而成，用来帮助有 Java 开发经验的工程师成为高效的 Scala 程序员。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/scala/

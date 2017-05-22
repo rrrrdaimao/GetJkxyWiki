@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Java 专题是按 Java 重要知识点搜集网络优质资源整合而成，帮助开发者快速定位自身所需知识。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-special-topic/

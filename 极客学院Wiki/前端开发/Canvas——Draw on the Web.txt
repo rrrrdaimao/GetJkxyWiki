@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        HTML5 Canvas API介绍与实战教程
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/canvas-wiki/

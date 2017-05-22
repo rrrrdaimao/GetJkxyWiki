@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文主要面向 C#基础知识学习者, 作者通过亲身学习与调查, 整理出初学者容易理解不清楚和混淆的概念。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/csharp-confusing-concepts-summary/

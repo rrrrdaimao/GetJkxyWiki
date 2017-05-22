@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书是官方文档的中文翻译版，内容不仅涉及入门级的基础知识点，也涉及 Rust 语言的高级用法，帮助读者了解这门系统编程语言。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/rust/

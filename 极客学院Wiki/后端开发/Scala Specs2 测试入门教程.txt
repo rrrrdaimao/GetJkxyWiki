@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程是 Scala 测试入门教程，旨在帮助开发者了解基于 Specs2 的测试方法。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/scala-spece2-test/

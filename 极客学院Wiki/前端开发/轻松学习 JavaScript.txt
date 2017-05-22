@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程是为初中级学者准备的，可以帮助他们理解并掌握 JavaScript 的基本语法、面向对象的设计思想以及一个高级特性。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/javascript/

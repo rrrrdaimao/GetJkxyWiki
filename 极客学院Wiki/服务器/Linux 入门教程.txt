@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Linux 是一种自由和开放源码的类 Unix 操作系统，Linux可安装在各种计算机硬件设备中，从手机、平板电脑、路由器和视频游戏控制台，到台式计算机、大型机和超级计算机。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/linux/

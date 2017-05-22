@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文是樊潇洁翻译的最新版本（v1.5版）的AngularJS教程。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/angularjs/

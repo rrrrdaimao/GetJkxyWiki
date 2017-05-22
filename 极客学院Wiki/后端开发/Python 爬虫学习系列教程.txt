@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程是作者学习经验总结，附加几个实战的例子帮助读者快速掌握爬虫开发的技巧。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/python-crawler-guide/

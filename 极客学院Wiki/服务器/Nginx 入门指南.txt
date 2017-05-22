@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Nginx 出色的高并发、低内存的性能，得到了国内大多数互联网公司的认可，本书主要介绍了 Nginx 平台的特点及模块开发，帮助读者从代码层理解 Nginx 服务器的构建和维护 。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/nginx/

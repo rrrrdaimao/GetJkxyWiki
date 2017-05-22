@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Swift 是一款为 iOS 和 OS X 应用编程设计的全新编程语言。新增更为现代的元素，使编程更为简洁、灵活，也更有趣。界面则基于备受人们喜爱的 Cocoa 和 Cocoa Touch 框架，展示了软件开发的新方向。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/swift-language-guide/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Android官方培训课程中文版，开源协同项目
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-training-geek/

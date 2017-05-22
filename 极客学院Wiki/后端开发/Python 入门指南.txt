@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Python 是一种面向对象、直译式的计算机程序语言，具有近二十年的发展历史。本指南将让你对 Python 有一个彻底的认识与了解，带你用简单并且实用的方法来学习 Python 编程语言。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/python-tutorial/

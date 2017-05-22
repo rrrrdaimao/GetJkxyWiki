@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                         本站为 Git 参考手册。目的是为学习与记忆 Git 使用中最重要、最普遍的命令提供快速翻阅。 这些命令以你可能需要的操作类型划分，并且将提供日常使用中需要的一些常用的命令以及参数。 
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/git-reference/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书的目的是以目前还在制定中的 ECMAScript 6 Promises 规范为中心，着重向各位读者介绍 JavaScript 中对 Promise 相关技术的支持情况。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/javascript-promise-mini-book/

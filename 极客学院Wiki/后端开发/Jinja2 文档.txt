@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Jinja2 是一个现代的，设计者友好的，仿照 Django 模板的 Python 模板语言。 它速度快，被广泛使用，并且提供了可选的沙箱模板执行环境保证安全。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/jinja2/

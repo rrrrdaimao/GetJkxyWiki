@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        GitHub 秘籍主要讲解了 Git 和 Github 使用过程中比较新颖的功能，帮助开发者更好的工作。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/github-secret/

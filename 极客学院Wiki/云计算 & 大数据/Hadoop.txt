@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        主要记录了Hadoop各个组件的基本原理，处理过程和关键的知识点等，包括HDFS、YARN、MapReduce等。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/hadoop/

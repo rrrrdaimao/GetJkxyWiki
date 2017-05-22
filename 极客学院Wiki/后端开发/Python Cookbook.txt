@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        这本书的所有主题都是基于已经存在的代码和技术，而不是专门去寻找 Python3 特有的教程。任何想使用最新技术编写代码的程序员，都可以将本书当做一本很好的参考书籍。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/python3-cookbook/

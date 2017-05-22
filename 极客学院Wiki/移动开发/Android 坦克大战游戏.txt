@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程通过坦克大战游戏，这个有趣的例子用于了解一个新平台的项目。通过两个平台的比较，更好的理解Android平台开发的一些特点。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-game-design/

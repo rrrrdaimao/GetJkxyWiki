@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Log4j 是一个使用 Java 语言编写的，可靠、快速、灵活的日志框架（API），使用 Apache Software License 授权。Log4j 是一个使用 Java 语言编写的流行类库，它被移植到 C、C++、C#、Perl、Python、Ruby 和 Eiffel 语言中。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/log4j/

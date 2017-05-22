@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Git 魔法 是以技巧入手，理解每个小技巧如何工作，以及如何组合这些技巧以满足你的需求。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/git-magic/

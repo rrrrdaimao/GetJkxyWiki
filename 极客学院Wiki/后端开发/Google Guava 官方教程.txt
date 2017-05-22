@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Guava 工程包含了若干被 Google 的 Java 项目广泛依赖 的核心库，我们希望通过此文档为 Guava 中最流行和最强大的功能，提供更具可读性和解释性的说明。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/google-guava-official-tutorial/

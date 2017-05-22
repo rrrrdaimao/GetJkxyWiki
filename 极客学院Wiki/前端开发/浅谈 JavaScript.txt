@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书旨在总结容易忘记的重要知识，不会讲基本的概念，通过实际例子，来指导读者了解这门功能强大的开发语言。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/brief-talk-js/

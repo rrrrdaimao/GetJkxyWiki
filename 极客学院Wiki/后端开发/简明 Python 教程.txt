@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Python 语言可能是第一种即简单又功能强大的编程语言。它不仅适合于初学者，也适合于专业人员使用，更加重要的是，用 Python 编程是一种愉快的事。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/simple-python-course/

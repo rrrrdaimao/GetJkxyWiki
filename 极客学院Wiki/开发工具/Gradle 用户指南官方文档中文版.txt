@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文旨在帮助读者了解 Gradle 的基本语法以及各个插件的用法. 这本指南为每一个基本用法提供了简单的实例以帮助读者更好的学习 Gradle. 
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/GradleUserGuide-Wiki/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文为Java NIO 简明教程，技术概念讲解透彻，浅显易懂。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-nio-zh/

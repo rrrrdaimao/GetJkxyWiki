@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Android 开源项目是针对各种各样具有不同外形的设备创建的开源软件栈。它的主要目的是为运营商、原始设备制造商（OEMs）和开发人员创造一个开放的软件平台。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-source/

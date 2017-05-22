@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Android 官方已经选定 Android Studio 为其官方开发工具，本教程手把手教会大家从如下几个方面来使用：下载、安装、设置、运行以及 Gradle 常见命令和多渠道打包。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-studio-guide/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书讲解了 CoffeeScript 基本语法及如何利用 CoffeeScript 展示 JavaScript 优秀的部分。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/coffeescript/

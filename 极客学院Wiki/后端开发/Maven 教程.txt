@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Apache Maven 是一套软件工程管理和整合工具。基于工程对象模型（POM）的概念，通过一个中央信息管理模块，Maven 能够管理项目的构建、报告和文档。本教程将教你如何在使用 Java 开发的工程中，或者任何其他编程语言中使用 Maven。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/maven/

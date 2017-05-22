@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        RoboGuice是Guice根据android平台设计的框架,较少了繁琐的查找代码,对象实例化等工作。。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-roboguice/

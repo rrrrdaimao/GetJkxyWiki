@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程根据作者多年 Java 开发经验总结而成，旨在帮助读者明白并发的原理。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-concurrent/

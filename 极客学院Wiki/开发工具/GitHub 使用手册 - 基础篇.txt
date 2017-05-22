@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本套教程从 GitHub 的历史入手，介绍 Git 安装、创建仓库、Fork、社会化、命令行开发，到最后的图形化工具的使用。学习完本教程，将不仅掌握 GitHub 命令行使用方法，也会学会图形化使用方法。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/github-basics/

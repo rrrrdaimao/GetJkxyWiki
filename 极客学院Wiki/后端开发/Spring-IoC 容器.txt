@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        IoC 是 Sring 容器的核心概念，是 Java 重要的面向对象编程的法则。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/spring-ioc/

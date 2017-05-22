@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        作者通过自身学习经历整理出一套 Python 语言学习笔记，内容分为四个部分：Python 语言、标准库、扩展库、附录。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/the-python-study-notes-second-edition/

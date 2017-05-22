@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程旨在帮助读者理解如何通过 Scala 语言实现一个高效的队列操作。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/scala-parameterized/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        前端开发工程师的福音，Chrome 开发者工具详细介绍。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/chrome-devtools/

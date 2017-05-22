@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        RESTful Web 服务就是基于 REST 架构的 Web 服务，在 REST 架构中一切都是资源。RESTful Web 服务是轻量级的，高度可伸缩和可维护的，通常用于给基于 Web 的应用程序创建 APIs。本教程将教会我们 RESTful Web 服务的基础知识，还包含讨论所有 RESTful Web 服务基本组成部分的章节和适当的例子。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/restful/

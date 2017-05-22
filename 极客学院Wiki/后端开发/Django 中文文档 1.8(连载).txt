@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Django 最新翻译版，作为热门 Python 框架，Django 已经取得很多工程师的喜爱。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/django-chinese-docs-18/

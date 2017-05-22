@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Windows Azure的主要目标是为开发者提供一个平台，帮助开发可运行在云服务器、数据中心、Web和PC上的应用程序。本专栏提供一系列 Windows Azure入门学习文章。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/windows-azure-getting-started/

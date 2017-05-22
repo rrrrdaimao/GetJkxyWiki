@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        我们尝试在新项目开发过程中更好的使用 PHP 技术，通过结合最新的开发模式、工具和经验，使您的 PHP 项目、团队焕发新生，重装上阵。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/php-developer-prepares/

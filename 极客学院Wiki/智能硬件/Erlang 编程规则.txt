@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Erlang是一种通用的面向并发的编程语言，它由瑞典电信设备制造商爱立信所辖的CS-Lab开发，目的是创造一种可以应对大规模并发活动的编程语言和运行环境
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/erlang-programming-rules/

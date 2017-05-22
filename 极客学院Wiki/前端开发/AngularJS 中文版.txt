@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程将向您展示 AngularJS 怎样使得 Web 应用更智能更灵活，而且不需要各种扩展程序或插件。学习 AngularJS 的一个好方法是逐步完成本教程，它将引导您构建一个完整的 AngularJS Web 应用程序。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/angularjs-tutorial/

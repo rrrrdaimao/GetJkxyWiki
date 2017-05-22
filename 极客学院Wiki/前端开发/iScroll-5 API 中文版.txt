@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        iScroll是一个高性能，资源占用少，无依赖，多平台的javascript滚动插件。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/iscroll-5/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        D3.js 是近几年世界最流行的数据可视化库，本教程旨在提供一个简单的入门教程。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/d3wiki/

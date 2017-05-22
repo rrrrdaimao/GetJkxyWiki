@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本指南四个简短的部分为您构建自己的首个应用程序提供了入门指导，包括需要的工具、主要概念以及助您上路的最佳实践。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/ios-developer-library/

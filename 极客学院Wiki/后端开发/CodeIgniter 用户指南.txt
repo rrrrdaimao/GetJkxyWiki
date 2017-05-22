@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        CodeIgniter 是一套给 PHP 网站开发者使用的应用程序开发框架和工具包。使用 CodeIgniter 可以减少代码的编写量，并将你的精力投入到项目的创造性开发上。本教程是对官方用户指南的中文译本。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/codeigniter-user-guide/

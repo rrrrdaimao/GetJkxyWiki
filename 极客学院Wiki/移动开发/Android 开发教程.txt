@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Android 是一个专门针对移动设备的软件集，它包括一个操作系统，中间件和一些重要的应用程序。本教程为初级教程，内容比较容易理解，适合 Android 初学者学习
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-development-tutorial/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程翻译自 Apple 官方发行的 Programming with Objective-C，为 iOS 开发者提供权威的编程指导。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/programming-with-objective-c/

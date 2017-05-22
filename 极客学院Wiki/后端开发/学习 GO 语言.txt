@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        这是关于来自 Google 的 Go 语言的简介。目标是为这个新的、革命性的语言提供一个指南。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/learn-go-language/

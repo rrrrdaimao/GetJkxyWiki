@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Gradle 是以 Groovy 语言为基础，面向 Java 应用为主。基于 DSL（领域特定语言）语法的自动化构建工具。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/gradle-2-user-guide/

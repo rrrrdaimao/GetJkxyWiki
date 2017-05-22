@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        一本专门介绍 Java 集合类实现原理的指南。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-collection/

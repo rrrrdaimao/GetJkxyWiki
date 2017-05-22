@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程翻译自 Apple 官方发行的 WatchKit Development Tips 开发小技巧，为优化你的 WatchKit apps 提供官方技术支持。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/watchkit-development-tips/

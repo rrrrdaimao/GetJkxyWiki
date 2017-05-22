@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书根据 Java 语言特点精选出 17 章共 204 道 Java 面试题，每道题均有提问和解答，帮助 Java 求职者迅速准备笔试面试最终获得求职成功。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-interview-bible/

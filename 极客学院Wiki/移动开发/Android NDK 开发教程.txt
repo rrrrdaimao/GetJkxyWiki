@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        NDK是一系列工具的集合，帮助开发者快速开发C（或C++）的动态库，并能自动将so和java应用一起打包成apk。这些工具对开发者的帮助是巨大的。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-ndk-development-tutorial/

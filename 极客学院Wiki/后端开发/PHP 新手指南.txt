@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        PHP 超文本预处理器是一种允许网站开发者创建与数据库相互作用的动态内容编程语言
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/php/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程将会带你学习 GNU/Linux 上最卓越的文件处理工具 AWK。 与其它 GNU/Linux 工具一样，AWK 非常强大，而且只用到十分简单的编程语言。 它仅仅需要几行代码就能够完成复杂的文本处理工作。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/awk/

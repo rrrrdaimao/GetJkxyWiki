@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程从环境搭建到实战讲解，逐步向读者展示如何使用 Nginx+Lua 框架进行开发。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/nginx-lua/

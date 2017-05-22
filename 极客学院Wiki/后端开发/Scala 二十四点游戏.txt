@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本课程通过 Scala 的函数化编程来实现我们小时候经常玩的算 24，通过实用的例子来有效学习 Scala。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/scala-twentyfour-game/

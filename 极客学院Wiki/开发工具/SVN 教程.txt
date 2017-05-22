@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程设计为了让对 SVN 感兴趣的软件专业人士简单方便地开始。完成这个教程，你将充分了解 SVN 让自己获得更高的水平的专业知识。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/svn/

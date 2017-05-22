@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        MongoDB 是一款开源的文档数据库，并且是业内领先的 NoSQL 数据库，用 C++ 编写而成。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/mongodb/

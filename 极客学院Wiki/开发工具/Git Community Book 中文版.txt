@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Git 是目前最流行的分布式版本控制工具，本书循序渐经的为读者讲解了 Git 在工作中所要掌握的知识。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/git-community-book/

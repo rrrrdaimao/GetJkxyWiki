@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Hello Sea.js是一本Sea.js的入门指南，对Sea.js进行了全方位的介绍。通读本书，你能够了解Sea.js各个细节，甚至整个前端模块化的大框架。本书既是一本参考手册，可以随时查阅；也是对前端模块化的一次剖析，展望。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/hello-seajs/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程翻译自 Apple 官方发行的 Apple Watch Human Interface Guidelines 设计指南，为开发者提供权威的设计准则。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/apple-watch-human-interface-guidelines/

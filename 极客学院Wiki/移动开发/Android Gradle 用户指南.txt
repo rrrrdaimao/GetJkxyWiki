@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Android Studio 使用 Gradle 构建工具，而 Gradle 继承了强大、灵活的 Ant 和 Maven 丰富的依赖管理，配置管理简单，脚本编写灵活。本指南是 Android 官方的 Gradle Plugin User Guide 中文翻译版。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/android-gradle-guide/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        这篇教程将会带你从头开始使用 Dart 来写 Web 应用程序。通过本教程，你将会下载 Dart 软件，并且使用 Dart 编辑器来创建和运行两个小应用。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/dart-get-started/

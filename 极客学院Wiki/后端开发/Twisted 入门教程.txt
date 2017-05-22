@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本书是"Twisted与异步编程入门"系列文章的简体中文翻译. 原文由<a href="http://krondo.com/blog/?page_id=1327">Dave</a>撰写，由<a href="http://blog.sina.com.cn/s/blog_704b6af70100py9n.html">杨晓伟</a>和<a href="https://github.com/luocheng/twisted-intro-cn">luocheng</a>翻译。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/twisted-intro/

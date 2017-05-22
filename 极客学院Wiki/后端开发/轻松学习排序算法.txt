@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文着重讲解了数据结构中比较重要的排序环节，对各种排序算法做了详细的说明和讲解，帮助读者迅速掌握排序的基本原理。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/data-structure-sorting/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        ES6 包含了很多新的语言功能，且这些语言功能使得 JavaScript 更加强大更富有表现力。下面我们将会一步步介绍 ES6 新增的那些功能。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/es-six-deeply/

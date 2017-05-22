@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        适合初学者的Rust中文教程
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/rust-primer/

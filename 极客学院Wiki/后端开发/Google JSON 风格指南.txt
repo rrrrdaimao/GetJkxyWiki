@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        该风格指南是对在Google创建JSON APIs而提供的指导性准则和建议。总体来讲，JSON APIs应遵循JSON.org上的规范。这份风格指南澄清和标准化了特定情况，从而使Google的JSON APIs有一种标准的外观和感觉。这些指南适用于基于RPC和基于REST风格的API的JSON请求和响应。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/google-json-style-guide/

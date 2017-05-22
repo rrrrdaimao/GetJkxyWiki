@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        C 语言实例详解。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/c-example/

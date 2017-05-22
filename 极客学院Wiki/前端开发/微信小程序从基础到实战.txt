@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        这个Wiki项目展示的是和极客学院V6课程--《微信小程序从基础到实战》的相关文档和资料
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/wechatapp/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        iOS 界面设计指南为苹果 iOS 设备设计精美的应用。本指南将让你对 iOS 应用设计规范有一个彻底的认识与了解。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/ios-human-interface-guidelines/

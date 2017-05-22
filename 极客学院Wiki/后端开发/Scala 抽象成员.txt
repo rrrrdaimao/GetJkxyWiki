@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        当一个类或是 Trait 的成员没有定义完整的实现时，称为抽象成员。抽象成员需要在其子类中完成实现，在 Scala 中，抽象成员除了成员函数外，也可以说成员变量或是抽象类型。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/scala-abstract-members/

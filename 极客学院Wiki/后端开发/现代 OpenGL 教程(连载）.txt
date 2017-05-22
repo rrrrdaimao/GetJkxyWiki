@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        OpenGL 是一个跨编程语言、跨平台的专业图形程序接口，是一个功能强大，调用方便的底层图形库。本课程从最基本的图形绘制讲起，然后由浅及深的介绍了可编程渲染管线中的各种渲染技术。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/modern-opengl-tutorial/

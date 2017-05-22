@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程目的是通过不同的视角（主要是通过开发Windows应用C++，C#程序员的角度）帮助Windows 桌面应用或ASP.Net程序员较快的掌握PHP Yii Framework应用程序框架。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/yii-development-tutorial/

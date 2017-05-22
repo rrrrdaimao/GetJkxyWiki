@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        jQuery UI 是一套 JavaScript 函式库，提供抽象化、可自订主题的 GUI 控制项与动画效果。基于 jQuery JavaScript 函式库，可用来建构互动式的 Web 应用。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/kendo-ui-development-tutorial/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        设计模式用于在特定的条件下为一些重复出现的软件设计问题提供合理的、有效的解决方案。本课程重点讲解了六种创建型模式，带你深入理解设计模式。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/design-pattern-creation/

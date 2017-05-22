@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本系列文章介绍 Scala 的隐式变换和隐式参数的用途。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/scala-implicit/

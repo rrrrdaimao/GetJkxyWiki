@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Elasticsearch 权威指南的中文译本。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/elasticsearch-definitive-guide-cn/

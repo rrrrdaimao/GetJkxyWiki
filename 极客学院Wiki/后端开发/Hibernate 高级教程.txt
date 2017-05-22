@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        文章内容是对 Hibernate 高级特性的总结和学习。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/hibernate_articles/

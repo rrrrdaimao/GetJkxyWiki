@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文是作者成功自学 java 后总结出的，一整套知识点集合。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-enhancement/

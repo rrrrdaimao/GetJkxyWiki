@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本教程结合实例由浅入深地讲解了使用 OpenGL ES 进行 3D 图形开发。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/opengl-es-guide/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本文主要介绍了 Web 开发过程中使用比较多的 JS 特效，如窗口的动态效果，日期和颜色选择器等。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/javascript-special-efficacy-examples/

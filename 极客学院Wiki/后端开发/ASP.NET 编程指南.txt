@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        ASP.NET 是一个由 Microsoft 开发的网页应用程序框架，它允许程序员构建动态网站，也允许你使用功能齐全的程序设计语言比如 C# 或者 VB.NET 来简单构建网页应用程序。本指南包含所有初学者将需要使用的 ASP.NET 基本元素。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/asp-net/

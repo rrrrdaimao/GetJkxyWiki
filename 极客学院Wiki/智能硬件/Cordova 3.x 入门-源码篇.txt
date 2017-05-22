@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Cordova 提供了一组设备相关的API，通过这组 API ，移动应用能够以JavaScript 访问原生的设备功能，如摄像头、麦克风等，本文是入门系列中的源码篇。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/cordova-3.x-primer-source-code/

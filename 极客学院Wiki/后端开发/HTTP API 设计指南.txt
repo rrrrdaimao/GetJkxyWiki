@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        本指南描述了一系列 HTTP+JSON API 的设计实践， 来自并展开于 Heroku Platform API 的工作。本指南指导着 Heroku 内部 API 的开发，我们希望也能对 Heroku 以外的 API 设计者有所帮助。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/http-api/

@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        UNIX 是一种能够同时处理多个用户活动的计算机操作系统。本文对 UNIX 做了详细的介绍，帮助读者正确使用 UNIX 系统。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/unix/

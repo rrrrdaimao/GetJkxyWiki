@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        jQuery 是一种快速简洁的 JavaScript 库，由 John Resig 在 2006 年创建。jQuery 可以简化 HTML 文档遍历、事件处理、动画以及 Ajax 交互，用于快速 Web 开发。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/jquery/

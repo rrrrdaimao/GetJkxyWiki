@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        Java 编码中的中文问题是一个老生常谈的问题了，但一直没有一个清晰的解释，本文作者将通过《Java 中文乱码解决之道》彻底分析、解决 Java 中文乱码问题。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-chinese-garbled-solution/

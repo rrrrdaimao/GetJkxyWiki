@@ -1,0 +1,6 @@
+【wiki介绍】：
+
+                        作者结合自己的实际开发经验，归纳整理出来分享给微信开发的入门者或正在研究的开发者。
+                    
+【链接】：
+http://wiki.jikexueyuan.com/project/java-wechat/
